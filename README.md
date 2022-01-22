@@ -5,7 +5,7 @@ Backend:
 CodeIgniter 3
 
 Frontend:
-1. Bootstrap 5
+Bootstrap 5
 
 Hasil output:
 ![Screenshot (368)](https://user-images.githubusercontent.com/75190387/150623673-fd1909ed-c2a5-4777-9a26-5cee7482492a.png)
