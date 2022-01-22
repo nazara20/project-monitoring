@@ -63,7 +63,6 @@ class Monitoring extends CI_Controller
 				"client" => $this->input->post('client', true),
 				"project_leader" => $this->input->post('project_leader', true),
 				"email" => $this->input->post('email', true),
-				"image" => "default.svg",
 				"start_date" => $this->input->post('start_date', true),
 				"end_date" => $this->input->post('end_date', true),
 				"progress" => $this->input->post('progress', true),
